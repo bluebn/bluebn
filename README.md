@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @bluebn
-- 👀 I’m interested in learning C, C++ and c#
-- 🌱 I’m currently learning html and basic javascript
+- 👋 Hi, I’m @.blue
+- 👀 I’m interested in learning JavaScript, C and C++
+- 🌱 I’m currently learning basic Python, C# and SQL
